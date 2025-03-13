@@ -21,5 +21,5 @@ Entre los temas que podrás encontrar se incluyen:
 Si encuentras algún error o comportamiento inesperado en la web, te invitamos a reportarlo a través de las [issues en GitHub](https://github.com/AlvaroCodes/aprende-openlayers/issues).
 
 ### Contribuir
-Tu contribución es muy valiosa. Además de reportar errores, puedes colaborar creando nuevas [issues en GitHub]((https://github.com/AlvaroCodes/aprende-openlayers/issues) para proponer mejoras en el contenido o compartir ideas que puedan enriquecer la web.
+Tu contribución es muy valiosa. Además de reportar errores, puedes colaborar creando nuevas [issues en GitHub](https://github.com/AlvaroCodes/aprende-openlayers/issues) para proponer mejoras en el contenido o compartir ideas que puedan enriquecer la web.
 
