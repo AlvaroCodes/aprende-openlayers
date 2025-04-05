@@ -8,14 +8,14 @@ Este proyecto es un curso completo y gratuito que te introducirá al mundo de Op
 
 Entre los temas que podrás encontrar se incluyen:
 
-[Introducción](https://aprendeopenlayers.dev/course/course-1/)
-[Conceptos Claves de Openlayers](https://aprendeopenlayers.dev/course/course-2/)
-[Capas Raster](https://aprendeopenlayers.dev/course/course-3/)
-[Capas Vectoriales](https://aprendeopenlayers.dev/course/course-4/)
-[Interacciones con el mapa](https://aprendeopenlayers.dev/course/course-5/)
-[Controles en Openlayers](https://aprendeopenlayers.dev/course/course-6/)
-[Manejo de múltiples capas](https://aprendeopenlayers.dev/course/course-7/)
-[Artículos Relacionados](https://aprendeopenlayers.dev/articles/)
+- [Introducción](https://aprendeopenlayers.dev/course/course-1/)
+- [Conceptos Claves de Openlayers](https://aprendeopenlayers.dev/course/course-2/)
+- [Capas Raster](https://aprendeopenlayers.dev/course/course-3/)
+- [Capas Vectoriales](https://aprendeopenlayers.dev/course/course-4/)
+- [Interacciones con el mapa](https://aprendeopenlayers.dev/course/course-5/)
+- [Controles en Openlayers](https://aprendeopenlayers.dev/course/course-6/)
+- [Manejo de múltiples capas](https://aprendeopenlayers.dev/course/course-7/)
+- [Artículos Relacionados](https://aprendeopenlayers.dev/articles/)
 
 ### Reportar Errores
 Si encuentras algún error o comportamiento inesperado en la web, te invitamos a reportarlo a través de las [issues en GitHub](https://github.com/AlvaroCodes/aprende-openlayers/issues).
